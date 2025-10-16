@@ -5,6 +5,8 @@
     "education": "MBBS, FCPS (Medicine)",
     "speciality": "Internal Medicine",
     "experience": "12 years",
+    "availability": ["Sunday", "Tuesday", "Thursday"],
+    "workingAt": "Square Hospital",
     "fee": 800,
     "registrationNumber": "BMDC-14567",
     "image": "https://doctime-core-ap-southeast-1.s3.ap-southeast-1.amazonaws.com/persons/4310695/profile_photos/tmmQUm0ZGUzB5nB1PoFINGpsOrKxDAM84oHtzTyn.png"
@@ -15,6 +17,8 @@
     "education": "MBBS, MS (Orthopedics)",
     "speciality": "Orthopedic Surgeon",
     "experience": "10 years",
+    "availability": ["Monday", "Wednesday", "Friday"],
+    "workingAt": "Popular Diagnostic Center",
     "fee": 1000,
     "registrationNumber": "BMDC-13254",
     "image": "https://healthxbd.com/_next/image?url=https%3A%2F%2Fcdn.healthxbd.com%2Fprod%2Fimg%2Fpropic%2Fd6c42bf8-90b9-43d3-b41d-be211c417f4a-inbound4744473506334505525.jpg&w=256&q=75"
@@ -25,6 +29,8 @@
     "education": "MBBS, MD (Cardiology)",
     "speciality": "Cardiologist",
     "experience": "9 years",
+    "availability": ["Saturday", "Monday", "Wednesday"],
+    "workingAt": "United Hospital",
     "fee": 1200,
     "registrationNumber": "BMDC-11892",
     "image": "https://doctime-core-ap-southeast-1.s3.ap-southeast-1.amazonaws.com/persons/5024578/profile_photos/zMMnUpTaO0mam1m7asP9ihvOqURfHA0bcxRPQYtV.png"
@@ -35,6 +41,8 @@
     "education": "MBBS, MS (ENT)",
     "speciality": "ENT Specialist",
     "experience": "7 years",
+    "availability": ["Sunday", "Tuesday", "Thursday"],
+    "workingAt": "Evercare Hospital",
     "fee": 700,
     "registrationNumber": "BMDC-16781",
     "image": "https://healthxbd.com/_next/image?url=https%3A%2F%2Fcdn.healthxbd.com%2Fprod%2Fimg%2Fpropic%2F714e3737-b33c-4dc8-a1d4-7057829bfd77-WhatsApp%20Image%202025-04-06%20at%2018.53.34_5b7c7cb4.jpg&w=256&q=75"
@@ -45,6 +53,8 @@
     "education": "MBBS, DGO",
     "speciality": "Gynecologist",
     "experience": "11 years",
+    "availability": ["Monday", "Wednesday", "Friday"],
+    "workingAt": "Central Hospital",
     "fee": 900,
     "registrationNumber": "BMDC-12547",
     "image": "https://doctime-core-ap-southeast-1.s3.ap-southeast-1.amazonaws.com/persons/7190463/profile_photos/tmzAbAMgS1OhleucaiM3UD1OgrdcaiNsoHrbDpuB.png"
@@ -55,6 +65,8 @@
     "education": "MBBS, MD (Neurology)",
     "speciality": "Neurologist",
     "experience": "8 years",
+    "availability": ["Tuesday", "Thursday", "Saturday"],
+    "workingAt": "Labaid Hospital",
     "fee": 1100,
     "registrationNumber": "BMDC-15392",
     "image": "https://healthxbd.com/_next/image?url=https%3A%2F%2Fcdn.healthxbd.com%2Fprod%2Fimg%2Fpropic%2Fa0df8246-6585-432b-b090-4ad42b9bd6d2-WhatsApp%20Image%202025-06-01%20at%202.45.06%20PM.jpeg&w=256&q=75"
@@ -65,6 +77,8 @@
     "education": "MBBS, FCPS (Dermatology)",
     "speciality": "Skin Specialist",
     "experience": "6 years",
+    "availability": ["Sunday", "Wednesday", "Friday"],
+    "workingAt": "Ibn Sina Hospital",
     "fee": 700,
     "registrationNumber": "BMDC-17320",
     "image": "https://doctime-core-ap-southeast-1.s3.ap-southeast-1.amazonaws.com/persons/6504216/profile_photos/EQDUcUlT2VfdWhvAAYxr6rbK1KSXqYGKHOGv5gAe.png"
@@ -75,6 +89,8 @@
     "education": "MBBS, MD (Nephrology)",
     "speciality": "Kidney Specialist",
     "experience": "10 years",
+    "availability": ["Monday", "Thursday"],
+    "workingAt": "National Institute of Mental Health",
     "fee": 950,
     "registrationNumber": "BMDC-16245",
     "image": "https://healthxbd.com/_next/image?url=https%3A%2F%2Fcdn.healthxbd.com%2Fprod%2Fimg%2Fpropic%2F5843db31-6879-4e1c-85c9-ab22a4cf45be-WhatsApp%20Image%202024-06-06%20at%204.23.00%20PM.jpeg&w=256&q=75"
@@ -85,6 +101,8 @@
     "education": "MBBS, MPH",
     "speciality": "Public Health Specialist",
     "experience": "14 years",
+    "availability": ["Sunday", "Tuesday", "Thursday"],
+    "workingAt": "City Dental Care",
     "fee": 850,
     "registrationNumber": "BMDC-11436",
     "image": "https://doctime-core-ap-southeast-1.s3.ap-southeast-1.amazonaws.com/persons/431160/profile_photos/sw328oCR0SukpQBJm5HroxyQvV1EMHNCNV13zcfr.jpg"
@@ -95,6 +113,8 @@
     "education": "MBBS, MS (Urology)",
     "speciality": "Urologist",
     "experience": "9 years",
+    "availability": ["Saturday", "Monday", "Wednesday"],
+    "workingAt": "Dhaka Medical College",
     "fee": 1000,
     "registrationNumber": "BMDC-13987",
     "image": "https://healthxbd.com/_next/image?url=https%3A%2F%2Fcdn.healthxbd.com%2Fprod%2Fimg%2Fpropic%2Fc91356b6-e6fe-429d-9abf-870ee82d3583-WhatsApp%20Image%202023-12-09%20at%2012.15.21%20PM.jpeg&w=256&q=75"
@@ -105,6 +125,8 @@
     "education": "MBBS, MD (Pediatrics)",
     "speciality": "Child Specialist",
     "experience": "8 years",
+    "availability": ["Tuesday", "Thursday", "Friday"],
+    "workingAt": "Ahsania Mission Cancer Hospital",
     "fee": 750,
     "registrationNumber": "BMDC-15894",
     "image": "https://doctime-core-ap-southeast-1.s3.ap-southeast-1.amazonaws.com/persons/556415/profile_photos/GIpEZ9zdyETvfwFNGH53KByS2OsHcG5CepAtD6FT.png"
@@ -115,6 +137,8 @@
     "education": "MBBS, FCPS (Surgery)",
     "speciality": "General Surgeon",
     "experience": "13 years",
+    "availability": ["Sunday", "Wednesday", "Thursday"],
+    "workingAt": "BIRDEM Hospital",
     "fee": 1150,
     "registrationNumber": "BMDC-10475",
     "image": "https://healthxbd.com/_next/image?url=https%3A%2F%2Fcdn.healthxbd.com%2Fprod%2Fimg%2Fpropic%2Fcfb05fbb-be9f-4de3-b145-38ebc84d348e-WhatsApp%20Image%202024-11-21%20at%208.40.40%20PM%20(1).jpeg&w=256&q=75"
