@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "question": "What is React and why is it popular?",
+    "answer": "React is a JavaScript library created by Facebook for building user interfaces. It became popular due to its component-based structure, fast rendering using the virtual DOM, and reusable code.",
+    "date": "2025-10-01"
+  },
+  {
+    "id": 2,
+    "question": "What is JSX in React?",
+    "answer": "JSX (JavaScript XML) is a syntax extension that allows writing HTML-like code within JavaScript. It helps make the UI structure more readable and React automatically compiles it into JavaScript.",
+    "date": "2025-10-02"
+  },
+  {
+    "id": 3,
+    "question": "What are React components?",
+    "answer": "Components are the core building blocks of React applications. Each component is an independent, reusable piece of UI that can be a function or a class.",
+    "date": "2025-10-03"
+  },
+  {
+    "id": 4,
+    "question": "What is the difference between functional and class components?",
+    "answer": "Functional components are simple JavaScript functions that return JSX. Class components extend React.Component and include lifecycle methods. Functional components are preferred with React Hooks.",
+    "date": "2025-10-04"
+  },
+  {
+    "id": 5,
+    "question": "What are props in React?",
+    "answer": "Props (short for properties) are read-only attributes used to pass data from a parent component to a child component.",
+    "date": "2025-10-05"
+  },
+  {
+    "id": 6,
+    "question": "What is state in React?",
+    "answer": "State is an object that stores dynamic data and controls component behavior. It can be changed using the useState hook or setState in class components.",
+    "date": "2025-10-06"
+  },
+  {
+    "id": 7,
+    "question": "What is the difference between props and state?",
+    "answer": "Props are immutable and passed from parent to child, while state is mutable and managed within the component.",
+    "date": "2025-10-07"
+  },
+  {
+    "id": 8,
+    "question": "What is useState in React?",
+    "answer": "useState is a React Hook that allows functional components to have and manage state. It returns an array with the current state and a function to update it.",
+    "date": "2025-10-08"
+  },
+  {
+    "id": 9,
+    "question": "What is useEffect used for?",
+    "answer": "useEffect is a hook for performing side effects in functional components, such as fetching data, setting up subscriptions, or manually changing the DOM.",
+    "date": "2025-10-09"
+  },
+  {
+    "id": 10,
+    "question": "What is the virtual DOM?",
+    "answer": "The virtual DOM is a lightweight JavaScript representation of the real DOM. React uses it to improve performance by updating only the parts of the DOM that actually change.",
+    "date": "2025-10-10"
+  },
+  {
+    "id": 11,
+    "question": "What are React Hooks?",
+    "answer": "React Hooks are functions that let you use React features like state and lifecycle without writing a class. Common hooks include useState, useEffect, useContext, and useRef.",
+    "date": "2025-10-11"
+  },
+  {
+    "id": 12,
+    "question": "What is useContext in React?",
+    "answer": "useContext is a hook that allows you to access context values directly without having to use a Consumer component.",
+    "date": "2025-10-12"
+  },
+  {
+    "id": 13,
+    "question": "What is React Router?",
+    "answer": "React Router is a library used to handle navigation in React applications. It allows dynamic routing and component rendering based on the URL path.",
+    "date": "2025-10-13"
+  },
+  {
+    "id": 14,
+    "question": "What is the difference between BrowserRouter and HashRouter?",
+    "answer": "BrowserRouter uses HTML5 history API for clean URLs, while HashRouter uses the URL hash (#) to manage routing.",
+    "date": "2025-10-14"
+  },
+  {
+    "id": 15,
+    "question": "What is lifting state up in React?",
+    "answer": "Lifting state up means moving shared state to a common ancestor component so multiple child components can access or modify it.",
+    "date": "2025-10-15"
+  },
+  {
+    "id": 16,
+    "question": "What are controlled components?",
+    "answer": "Controlled components are form inputs that are controlled by React state, meaning the value is set and updated through state variables.",
+    "date": "2025-10-16"
+  },
+  {
+    "id": 17,
+    "question": "What are uncontrolled components?",
+    "answer": "Uncontrolled components manage their own state internally via the DOM, and React accesses their values using refs.",
+    "date": "2025-10-17"
+  },
+  {
+    "id": 18,
+    "question": "What is useRef in React?",
+    "answer": "useRef is a hook used to access or store a mutable value that persists across re-renders, such as DOM elements or previous values.",
+    "date": "2025-10-18"
+  },
+  {
+    "id": 19,
+    "question": "What is useMemo used for?",
+    "answer": "useMemo is a hook that memoizes expensive calculations so they don’t run on every render, improving performance.",
+    "date": "2025-10-19"
+  },
+  {
+    "id": 20,
+    "question": "What is useCallback used for?",
+    "answer": "useCallback memoizes callback functions so they aren’t recreated on every render, which helps prevent unnecessary re-renders.",
+    "date": "2025-10-20"
+  },
+  {
+    "id": 21,
+    "question": "What are React Fragments?",
+    "answer": "React Fragments let you group multiple elements without adding extra nodes to the DOM. You can use <></> shorthand syntax.",
+    "date": "2025-10-21"
+  },
+  {
+    "id": 22,
+    "question": "What is conditional rendering in React?",
+    "answer": "Conditional rendering allows React to display components or elements based on certain conditions, often using the ternary operator or logical &&.",
+    "date": "2025-10-22"
+  },
+  {
+    "id": 23,
+    "question": "What is lazy loading in React?",
+    "answer": "Lazy loading allows you to load components only when they are needed, which improves performance. It’s often implemented with React.lazy and Suspense.",
+    "date": "2025-10-23"
+  },
+  {
+    "id": 24,
+    "question": "What is context API in React?",
+    "answer": "The Context API allows you to share data across multiple components without passing props manually at every level.",
+    "date": "2025-10-24"
+  }
+]
