@@ -9,8 +9,7 @@
         "language": "en",
         "published_at": "2024-09-30T13:00:45.000000Z",
         "source": "gurufocus.com",
-        "categories": ["business"],
-        "relevance_score": null
+        "categories": ["business"]
     },
     {
         "_id": "92ab4baf500e4ce69da01bae9cd31a37",
@@ -22,8 +21,7 @@
         "language": "en",
         "published_at": "2024-09-30T13:00:44.000000Z",
         "source": "yna.co.kr",
-        "categories": ["general"],
-        "relevance_score": null
+        "categories": ["general"]
     },
     {
         "_id": "5303d953b9c9434a859a3362cf5645d7",
@@ -35,8 +33,7 @@
         "language": "en",
         "published_at": "2024-09-30T13:00:33.000000Z",
         "source": "gurufocus.com",
-        "categories": ["business"],
-        "relevance_score": null
+        "categories": ["business"]
     },
     {
         "_id": "57dbe2a51cba48cbbf19356fe10c09e3",
@@ -48,8 +45,7 @@
         "language": "ko",
         "published_at": "2024-09-30T13:00:29.000000Z",
         "source": "shinailbo.co.kr",
-        "categories": [],
-        "relevance_score": null
+        "categories": []
     },
     {
         "_id": "ec79b4ed10bf48ee84d17b234615a185",
@@ -61,8 +57,7 @@
         "language": "ko",
         "published_at": "2024-09-30T13:00:25.000000Z",
         "source": "bikorea.net",
-        "categories": ["tech", "general"],
-        "relevance_score": null
+        "categories": ["tech", "general"]
     },
     {
         "_id": "e1b395eeaa774a4d8fd21a4d0c3d6b72",
@@ -74,8 +69,7 @@
         "language": "ru",
         "published_at": "2024-09-30T13:00:23.000000Z",
         "source": "gotennis.ru",
-        "categories": ["sports"],
-        "relevance_score": null
+        "categories": ["sports"]
     },
     {
         "_id": "6d47d8c57337443a954a9240cdc92758",
@@ -87,8 +81,7 @@
         "language": "ru",
         "published_at": "2024-09-30T13:00:16.000000Z",
         "source": "mixednews.ru",
-        "categories": ["general"],
-        "relevance_score": null
+        "categories": ["general"]
     },
     {
         "_id": "50b49ba7f60d4f38b7cb3715267afee4",
@@ -100,8 +93,7 @@
         "language": "ko",
         "published_at": "2024-09-30T13:00:11.000000Z",
         "source": "t240.ndsoftnews.com",
-        "categories": ["finance"],
-        "relevance_score": null
+        "categories": ["finance"]
     },
     {
         "_id": "78c2f6c1ef7447c5b9f08c4e26c8e47d",
@@ -113,8 +105,7 @@
         "language": "en",
         "published_at": "2024-09-29T12:00:00.000000Z",
         "source": "healthnews.com",
-        "categories": ["health"],
-        "relevance_score": null
+        "categories": ["health"]
     },
     {
         "_id": "be0f6b7dce594c48bfb3dfb7cabe949d",
@@ -126,8 +117,7 @@
         "language": "en",
         "published_at": "2024-09-29T10:00:00.000000Z",
         "source": "cryptomarket.com",
-        "categories": ["finance", "technology"],
-        "relevance_score": null
+        "categories": ["finance", "technology"]
     },
     {
         "_id": "da8f3ab83e7e4705b80e50cc0e56d304",
@@ -139,8 +129,7 @@
         "language": "en",
         "published_at": "2024-09-29T09:00:00.000000Z",
         "source": "electricvehicles.com",
-        "categories": ["environment", "policy"],
-        "relevance_score": null
+        "categories": ["environment", "policy"]
     },
     {
         "_id": "7c9ee96efb654c6392459a5029f32d5c",
@@ -152,7 +141,6 @@
         "language": "en",
         "published_at": "2024-09-29T08:00:00.000000Z",
         "source": "who.int",
-        "categories": ["health"],
-        "relevance_score": null
+        "categories": ["health"]
     }
 ]
